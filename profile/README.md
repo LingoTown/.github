@@ -29,7 +29,7 @@ https://github.com/LingoTown/.github/assets/102503928/400d175b-2fdc-4117-90e6-83
 
 ### 공원 맵
 
-https://fitsta-bucket.s3.ap-northeast-2.amazonaws.com/Park.mp4
+https://github.com/LingoTown/.github/assets/102503928/8c630a23-23fe-4f22-bee6-d6cfec24974b
 
 <br/>
 
