@@ -74,6 +74,8 @@ https://github.com/LingoTown/.github/assets/102503928/8c630a23-23fe-4f22-bee6-d6
 
 ## ERD
 
+![image](https://github.com/LingoTown/.github/assets/102503928/215b83b4-9a38-4330-8cf3-969d9aaeee08)
+
 <br/>
 
 ## 시스템 구조도
