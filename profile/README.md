@@ -23,7 +23,7 @@
 
 # :sparkles: 기능 소개
 
-#### 의류 관리 코스 기능
+### 캐릭터 선택 기능
 
 https://github.com/LingoTown/.github/assets/102503928/400d175b-2fdc-4117-90e6-83c8c0c6bfcb
 
