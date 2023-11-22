@@ -25,11 +25,31 @@
 
 ### 캐릭터 선택 기능
 
-https://github.com/LingoTown/.github/assets/102503928/400d175b-2fdc-4117-90e6-83c8c0c6bfcb
+https://github.com/LingoTown/.github/assets/102503928/03e9d6dd-067f-4b1c-a737-4125c3313019
 
-### 공원 맵
+### NPC 소개
 
-https://github.com/LingoTown/.github/assets/102503928/8c630a23-23fe-4f22-bee6-d6cfec24974b
+https://github.com/LingoTown/.github/assets/102503928/8ea9a192-c1b0-4f97-a6a3-e8461a71501b
+
+### 맵 소개
+
+https://github.com/LingoTown/.github/assets/102503928/7f1f5c8c-adfd-49cd-9095-c9e1a8237f4f
+
+### 공원
+
+https://github.com/LingoTown/.github/assets/102503928/c0a998f8-b9b1-4bfb-bd2e-0c6e951aa1e8
+
+### 이벤트 홀
+
+https://github.com/LingoTown/.github/assets/102503928/976a0d79-3537-4139-9234-788ea578bde9
+
+### 식당
+
+https://github.com/LingoTown/.github/assets/102503928/bb1c0569-a788-406a-bc4c-01cc4c6ca500
+
+### Franch
+
+https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-790fa43d4659
 
 <br/>
 
