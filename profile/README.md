@@ -1,5 +1,6 @@
 # LingoTown
 
+![image](https://github.com/LingoTown/.github/assets/102503928/b21e8278-9c2c-4c7b-bb3d-6c7cba54d77e)
 
 <div align="center">
 
@@ -58,11 +59,12 @@ https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-79
 ## Client
 
 - Node.js 18.16.1
-- Vite 3.3.2
+- Vite 4.4.1
 - React 18.2.0
 - TypeScript 5.61.0
 - Recoil 0.7.7
 - Axios 1.4.0
+- React Three Fiver
 
 ## Server
 
