@@ -92,6 +92,10 @@ https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-79
 
 ## 인터페이스 설계서
 
+![image](https://github.com/LingoTown/.github/assets/102503928/c4b35bf0-6e47-4936-ae45-7cd678f752a1)
+
+https://minsung37.notion.site/API-9d132ee6bfc341cbbbb52fb9af1e22b3?pvs=4
+
 <br/>
 
 ## ERD
@@ -101,6 +105,8 @@ https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-79
 <br/>
 
 ## 시스템 구조도
+
+![image](https://github.com/LingoTown/.github/assets/102503928/7567d365-38ab-41b9-b5b6-f49c7394760e)
 
 <br/>
 
