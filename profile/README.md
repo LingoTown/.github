@@ -96,8 +96,6 @@ https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-79
 
 https://minsung37.notion.site/API-9d132ee6bfc341cbbbb52fb9af1e22b3?pvs=4
 
-<br/>
-
 ## ERD
 
 ![image](https://github.com/LingoTown/.github/assets/102503928/215b83b4-9a38-4330-8cf3-969d9aaeee08)
