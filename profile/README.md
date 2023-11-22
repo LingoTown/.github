@@ -29,7 +29,7 @@ https://github.com/LingoTown/.github/assets/102503928/03e9d6dd-067f-4b1c-a737-41
 
 ### NPC 소개
 
-https://github.com/LingoTown/.github/assets/102503928/8ea9a192-c1b0-4f97-a6a3-e8461a71501b
+https://github.com/LingoTown/.github/assets/102503928/f316e9e4-fb91-45bc-af47-da5de9a3cb41
 
 ### 맵 소개
 
