@@ -49,7 +49,7 @@ https://github.com/LingoTown/.github/assets/102503928/976a0d79-3537-4139-9234-78
 
 https://github.com/LingoTown/.github/assets/102503928/bb1c0569-a788-406a-bc4c-01cc4c6ca500
 
-### Franch
+### French
 
 https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-790fa43d4659
 
