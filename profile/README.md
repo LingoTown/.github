@@ -65,26 +65,38 @@ https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-79
 - TypeScript 5.61.0
 - Recoil 0.7.7
 - Axios 1.4.0
-- React Three Fiver
+- React Three Fiver (Three.js 0.157.0)
 
 ## Server
 
+- Java OpenJDK 11.0.1
+- Gradle 8.3
+- Spring 5.3.22
 - SpringBoot 2.7.16
-- Spring Data JPA
-- Spring Security
-- Spring WebClient
+- Spring Data JPA 2.7.16
+- Spring Security 2.7.16
+- Spring WebClient 2.7.16
+- Lombok 1.18.30
+- Google Cloud TTS 2.28.0
+- OpenAI 1.0.4
+- JWT 0.9.1 
 
 ## DB
 
-- MySQL 8.0.31
+- MySQL 8.0.33
 
 ## Infra
 
-- Ubuntu 20.04
-- Nginx
-- AWS EC2
-- AWS S3
-- AWS RDS
+- AWS EC2 Ubuntu 20.0.4 LTS
+- AWS S3 2.2.6.RELEASE
+- AWS RDS(MySQL) 8.0.33
+- Docker 24.0.6
+- Nginx 1.18.0 (Ubuntu)
+- Jenkins 2.414.1
+- SonarQube 4.2.1.3168
+- Jacoco 0.8.8
+- Prometheus 1.9.15
+- Grafana 10.1.5
 
 <br/>
 
