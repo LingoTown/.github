@@ -123,8 +123,10 @@ https://minsung37.notion.site/API-9d132ee6bfc341cbbbb52fb9af1e22b3?pvs=4
 <br/>
 
 # :movie_camera: UCC
-<div align="center">
+<a href="https://youtu.be/iy1bvsmkqW8" align="center">
 
-</div>
+  ![링고타운 ucc 썸네일](https://github.com/LingoTown/.github/assets/33896511/6b690131-d1ff-4c2c-b7f3-403d0356a317)
+
+</a>
 
 <br/>
