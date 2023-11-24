@@ -57,6 +57,16 @@ https://github.com/LingoTown/.github/assets/102503928/bb1c0569-a788-406a-bc4c-01
 
 https://github.com/LingoTown/.github/assets/102503928/a21bb143-58d5-47a5-8206-790fa43d4659
 
+
+### Talk
+
+https://github.com/LingoTown/.github/assets/102503928/c540ee20-43af-493f-b48f-ba3fd6b36ac8
+
+
+### 발음평가
+
+![image](https://github.com/LingoTown/.github/assets/102503928/d1d045c5-cec1-44a3-a1b3-333b1c535404)
+
 <br/>
 
 # :wrench: 기술스택
