@@ -1,9 +1,9 @@
-# LingoTown
+# AI와 대화하는 메타버스 언어마을 - LingoTown 🏆
 
 ![image](https://github.com/LingoTown/.github/assets/102503928/b21e8278-9c2c-4c7b-bb3d-6c7cba54d77e)
 
 <div align="center">
-
+<h1>🏆 SSAFY 9기 자율프로젝트 우수상 🏆</h1> 
 </div>
 <br>
 <div align="center">
